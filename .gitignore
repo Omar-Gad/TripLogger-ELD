@@ -33,7 +33,7 @@ npm-debug.log
 *.map
 
 # General
-/{{project_name}}-venv/
+/TripELD-venv/
 /venv/
 /env/
 /output/
